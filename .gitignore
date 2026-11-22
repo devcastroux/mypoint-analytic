@@ -1,0 +1,6 @@
+.env
+.venv/
+.idea/
+seed_ficticio.sql
+seed_ficticio_java.sql
+__pycache__/
